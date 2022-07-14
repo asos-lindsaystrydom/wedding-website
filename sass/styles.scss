@@ -1,5 +1,5 @@
 // Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 // Imports
 //@import "compass";
 @import "partials/typography";
@@ -35,7 +35,7 @@ a:hover, a:focus {
   text-decoration: none;
 }
 body {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Abril Fatface', cursive;
   font-weight: $light;
   color: $txt-primary;
   -webkit-text-size-adjust: 100%;
@@ -64,7 +64,7 @@ section .header {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Abril Fatface', cursive;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
